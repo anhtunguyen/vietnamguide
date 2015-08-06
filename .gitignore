@@ -1,6 +1,5 @@
 # Base ignore
 /.buildpath
-/.htaccess
 /.project
 /.settings
 /assets/css/*.opt.css
@@ -41,3 +40,5 @@
 !/uploads/banners/webnhanh_vn.png
 !/data/cache/.htaccess
 !/data/cache/index.html
+data/config/config_global.php
+.htaccess
