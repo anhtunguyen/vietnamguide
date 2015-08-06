@@ -7,7 +7,7 @@
 /config.php
 /data/cache/*
 /data/config/diagnostic-*.xml
-/data/config/config*l
+/data/config/config*
 /data/logs/data_logs/
 /data/logs/dump_backup/
 /data/logs/error_logs/
